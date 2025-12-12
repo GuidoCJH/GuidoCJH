@@ -3,6 +3,7 @@
 🌱 Actualmente estoy aprendiendo html
 😄 Pronombres: Guido
 ⚡ Dato curioso: nunca dejes de aprender
+�🛜 Mis redes sociales https://christhian.netlify.app/
 <!---
 GuidoCJH/GuidoCJH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
